@@ -1,0 +1,16 @@
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\bin\Debug\net5.0\HomeWork_CSharp.exe
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\bin\Debug\net5.0\HomeWork_CSharp.deps.json
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\bin\Debug\net5.0\HomeWork_CSharp.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\bin\Debug\net5.0\HomeWork_CSharp.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\bin\Debug\net5.0\HomeWork_CSharp.dll
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\bin\Debug\net5.0\HomeWork_CSharp.pdb
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.dll
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\refint\HomeWork_CSharp.dll
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.pdb
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\HomeWork_CSharp.genruntimeconfig.cache
+C:\Users\Vyacheslav\Desktop\Studies\Programming\SkillboxNew\Lesson_07\HomeWork_CSharp\obj\Debug\net5.0\ref\HomeWork_CSharp.dll

@@ -1,10 +1,12 @@
 ﻿using System;
-using HomeWork_CSharp.Services;
+using HomeWork_CSharp.Data;
 
 namespace HomeWork_CSharp
 {
     class Program
     {
+        private static Repository _rep;
+
         static void Main(string[] args)
         {
             Start();
@@ -12,6 +14,8 @@ namespace HomeWork_CSharp
 
         private static void Start()
         {
+            _rep = new Repository();
+
             while(true)
             {
                 Console.WriteLine("\n***** Главное меню *****\n");
@@ -28,16 +32,29 @@ namespace HomeWork_CSharp
             switch (Console.ReadLine())
             {
                 case "1":
-                    EmployeeRecords.PrintInfoOfEmployees();
+                    _rep.PrintAllWorkers();
                     break;
                 case "2":
-                    EmployeeRecords.ToCreateRecordOfEmployee();
+                    AddWorkerInRepository();
                     break;
                 default:
                     Environment.Exit(0);
                     break;
             }
             
+        }
+
+        private static void AddWorkerInRepository()
+        {
+            Console.Write("Введите ФИО сотрудника: ");
+            var fullName = Console.ReadLine();
+            Console.Write("Введите рост сотрудника: ");
+            var height = byte.Parse(Console.ReadLine());
+            Console.Write("Введите дату рождения сотрудника: ");
+            var birthDate = DateTime.Parse(Console.ReadLine());
+            Console.Write("Введите место рождения сотрудника: ");
+            var birthPlace = Console.ReadLine();
+            _rep.AddWorker(fullName, height, birthDate, birthPlace);
         }
     }
 }
